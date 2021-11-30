@@ -1,0 +1,8 @@
+C:/Users/Itp Manish/Desktop/Flutter Applications/Practices/5/itp_TicTacToe/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/Itp Manish/Desktop/Flutter Applications/Practices/5/itp_TicTacToe/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/Itp Manish/Desktop/Flutter Applications/Practices/5/itp_TicTacToe/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/Itp Manish/Desktop/Flutter Applications/Practices/5/itp_TicTacToe/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/Itp Manish/Desktop/Flutter Applications/Practices/5/itp_TicTacToe/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/Itp Manish/Desktop/Flutter Applications/Practices/5/itp_TicTacToe/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/Itp Manish/Desktop/Flutter Applications/Practices/5/itp_TicTacToe/build/windows/runner/Debug/data/flutter_assets/NOTICES
+C:/Users/Itp Manish/Desktop/Flutter Applications/Practices/5/itp_TicTacToe/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf

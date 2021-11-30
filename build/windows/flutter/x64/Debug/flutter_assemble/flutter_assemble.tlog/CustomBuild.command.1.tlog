@@ -1,0 +1,28 @@
+^C:\USERS\ITP MANISH\DESKTOP\FLUTTER APPLICATIONS\PRACTICES\5\ITP_TICTACTOE\BUILD\WINDOWS\CMAKEFILES\DB743F7F252CD18AE85E57F0B6BAD7E7\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT="C:\src\flutter" PROJECT_DIR="C:\Users\Itp Manish\Desktop\Flutter Applications\Practices\5\itp_TicTacToe" FLUTTER_ROOT="C:\src\flutter" FLUTTER_EPHEMERAL_DIR="C:\Users\Itp Manish\Desktop\Flutter Applications\Practices\5\itp_TicTacToe\windows\flutter\ephemeral" PROJECT_DIR="C:\Users\Itp Manish\Desktop\Flutter Applications\Practices\5\itp_TicTacToe" FLUTTER_TARGET="C:\Users\Itp Manish\Desktop\Flutter Applications\Practices\5\itp_TicTacToe\lib\main.dart" DART_DEFINES="flutter.inspector.structuredErrors=true" DART_OBFUSCATION="false" TRACK_WIDGET_CREATION="true" TREE_SHAKE_ICONS="false" PACKAGE_CONFIG=".packages" C:/src/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\ITP MANISH\DESKTOP\FLUTTER APPLICATIONS\PRACTICES\5\ITP_TICTACTOE\BUILD\WINDOWS\CMAKEFILES\DA175D926820010BCFA482728C3E118D\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\ITP MANISH\DESKTOP\FLUTTER APPLICATIONS\PRACTICES\5\ITP_TICTACTOE\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Itp Manish/Desktop/Flutter Applications/Practices/5/itp_TicTacToe/windows" "-BC:/Users/Itp Manish/Desktop/Flutter Applications/Practices/5/itp_TicTacToe/build/windows" --check-stamp-file "C:/Users/Itp Manish/Desktop/Flutter Applications/Practices/5/itp_TicTacToe/build/windows/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

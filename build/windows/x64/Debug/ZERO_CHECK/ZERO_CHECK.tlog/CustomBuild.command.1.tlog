@@ -1,0 +1,10 @@
+^C:\USERS\ITP MANISH\DESKTOP\FLUTTER APPLICATIONS\PRACTICES\5\ITP_TICTACTOE\BUILD\WINDOWS\CMAKEFILES\8A7B5B089CDA632AEC4162293F8C3E51\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Itp Manish/Desktop/Flutter Applications/Practices/5/itp_TicTacToe/windows" "-BC:/Users/Itp Manish/Desktop/Flutter Applications/Practices/5/itp_TicTacToe/build/windows" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Itp Manish/Desktop/Flutter Applications/Practices/5/itp_TicTacToe/build/windows/itp_TicTacToe.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

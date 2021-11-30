@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Itp Manish\Desktop\Flutter Applications\Practices\5\itp_TicTacToe\build\windows\CMakeFiles\8a7b5b089cda632aec4162293f8c3e51\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B3A116AC-6640-35E3-B713-16EB7D1A7B46}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

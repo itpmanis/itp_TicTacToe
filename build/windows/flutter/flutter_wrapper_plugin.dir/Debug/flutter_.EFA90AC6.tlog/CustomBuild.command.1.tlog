@@ -1,0 +1,10 @@
+^C:\USERS\ITP MANISH\DESKTOP\FLUTTER APPLICATIONS\PRACTICES\5\ITP_TICTACTOE\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Itp Manish/Desktop/Flutter Applications/Practices/5/itp_TicTacToe/windows" "-BC:/Users/Itp Manish/Desktop/Flutter Applications/Practices/5/itp_TicTacToe/build/windows" --check-stamp-file "C:/Users/Itp Manish/Desktop/Flutter Applications/Practices/5/itp_TicTacToe/build/windows/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

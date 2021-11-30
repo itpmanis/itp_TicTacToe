@@ -1,0 +1,10 @@
+^C:\USERS\ITP MANISH\DESKTOP\FLUTTER APPLICATIONS\PRACTICES\5\ITP_TICTACTOE\BUILD\WINDOWS\CMAKEFILES\8A7B5B089CDA632AEC4162293F8C3E51\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

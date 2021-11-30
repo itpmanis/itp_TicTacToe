@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Itp Manish\Desktop\Flutter Applications\Practices\5\itp_TicTacToe\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Itp Manish\Desktop\Flutter Applications\Practices\5\itp_TicTacToe\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Itp Manish\Desktop\Flutter Applications\Practices\5\itp_TicTacToe\windows\flutter\ephemeral\cpp_client_wrapper\flutter_engine.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Itp Manish\Desktop\Flutter Applications\Practices\5\itp_TicTacToe\windows\flutter\ephemeral\cpp_client_wrapper\flutter_view_controller.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Itp Manish\Desktop\Flutter Applications\Practices\5\itp_TicTacToe\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B3A116AC-6640-35E3-B713-16EB7D1A7B46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F0E88A7B-3EB3-3B93-85C4-BA8A3866D3D8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
